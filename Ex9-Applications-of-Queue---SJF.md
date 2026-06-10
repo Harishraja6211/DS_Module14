@@ -16,8 +16,7 @@ The task is to return the maximum size among all such sets.
 ```
 /*
 Program to find the Longest Length of Nested Set in a Permutation Array
-Developed by: T MOUNISH
-RegisterNumber:  212223240098
+
 */
 import java.util.Scanner;
 
