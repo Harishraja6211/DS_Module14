@@ -31,8 +31,7 @@ Break the circular connection.
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: T MOUNISH
-RegisterNumber:  212223240098
+
 */
 import java.util.Scanner;
 
